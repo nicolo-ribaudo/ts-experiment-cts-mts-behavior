@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "module": "ES2022",
+        "module": "Node16",
         "outDir": "lib",
         "declaration": true
     },
